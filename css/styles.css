@@ -1,0 +1,63 @@
+body{
+  background-color: #37517E;
+}
+.bg-custom{
+  background-color: #37517E;
+}
+footer{
+  background-color: #F3F5FA;
+  height: 15%;
+}
+.btn-custom1{
+  background-color: #47B2E4;
+  color: white;
+}
+
+.m1{
+  position: relative;
+  width: 100px;
+  height: 75px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-right: 10px;
+}
+.m2{
+  position: relative;
+  width: 100px;
+  height: 75px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-right: 10px;
+}
+.m3{
+  position: relative;
+  width: 100px;
+  height: 75px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-right: 10px;
+}
+.m4{
+  position: relative;
+  width: 100px;
+  height: 75px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-right: 10px;
+}
+.m5{
+  position: relative;
+  width: 100px;
+  height: 75px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-right: 10px;
+}
+.m6{
+  position: relative;
+  width: 100px;
+  height: 75px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-right: 10px;
+}
